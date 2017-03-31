@@ -1,0 +1,12 @@
+*.suo
+*.ipdb
+*.iobj
+*.pdb
+*.db
+*.exe
+*.obj
+*.ipch
+*.tlog
+MiniDownloder/Debug/
+MiniDownloder/MiniDownloder/Debug/
+*.log
